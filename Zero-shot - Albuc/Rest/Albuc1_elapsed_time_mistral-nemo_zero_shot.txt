@@ -1,0 +1,1 @@
+Total processing time for model 'mistral-nemo' and text 'Albuc1': 10569.63 seconds

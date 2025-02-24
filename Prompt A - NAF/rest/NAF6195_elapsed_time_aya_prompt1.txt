@@ -1,0 +1,1 @@
+Total processing time for model 'aya' and text 'NAF6195': 11777.49 seconds

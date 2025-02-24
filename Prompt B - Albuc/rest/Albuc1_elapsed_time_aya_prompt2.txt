@@ -1,0 +1,1 @@
+Total processing time for model 'aya' and text 'Albuc1': 11792.42 seconds

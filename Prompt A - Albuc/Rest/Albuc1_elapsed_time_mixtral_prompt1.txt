@@ -1,0 +1,1 @@
+Total processing time for model 'mixtral' and text 'Albuc1': 11995.23 seconds

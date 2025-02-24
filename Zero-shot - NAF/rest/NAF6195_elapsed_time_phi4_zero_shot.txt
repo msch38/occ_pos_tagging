@@ -1,0 +1,1 @@
+Total processing time for model 'phi4' and text 'NAF6195': 11735.14 seconds

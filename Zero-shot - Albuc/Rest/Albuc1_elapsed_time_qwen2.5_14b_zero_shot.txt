@@ -1,0 +1,1 @@
+Total processing time for model 'qwen2.5:14b' and text 'Albuc1': 8874.67 seconds

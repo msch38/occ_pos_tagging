@@ -1,0 +1,1 @@
+Total processing time for model 'mistral' and text 'Albuc1': 10089.88 seconds

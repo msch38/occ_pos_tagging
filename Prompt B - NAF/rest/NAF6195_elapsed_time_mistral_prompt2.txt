@@ -1,0 +1,1 @@
+Total processing time for model 'mistral' and text 'NAF6195': 10629.53 seconds

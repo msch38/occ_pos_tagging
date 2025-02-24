@@ -1,0 +1,1 @@
+Total processing time for model 'mixtral' and text 'NAF6195': 11821.91 seconds

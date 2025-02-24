@@ -1,0 +1,1 @@
+Total processing time for model 'Gemma2:9b' and text 'Albuc1': 11823.81 seconds

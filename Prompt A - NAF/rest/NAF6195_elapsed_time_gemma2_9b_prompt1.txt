@@ -1,0 +1,1 @@
+Total processing time for model 'gemma2:9b' and text 'NAF6195': 11721.09 seconds
