@@ -258,8 +258,8 @@ def save_results(results, base_filename):
     print(f"Results saved in folder: {folder_name}")
 
 if __name__ == "__main__":
-    file = "NAF6195_tagged_aya_zero_shot.xlsx"
-    df_gold = pd.read_excel("NAF_reference.xlsx")
+    file = "NAF6195_tagged_aya_zero_shot.xlsx" #prediction file
+    df_gold = pd.read_excel("../data/NAF_reference.xlsx") #reference file
     df_pred = pd.read_excel(file)
     
     # Prepare the data

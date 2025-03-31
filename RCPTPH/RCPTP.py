@@ -74,9 +74,9 @@ def find_first_matching_sentence(reference_file, prediction_file, sentences_file
     results_df.to_excel("result.xlsx",index=False)
 
 def main():
-    reference_file = 'REF_Albuc_1.xlsx'  # Path to your reference Excel file
+    reference_file = '../data/REF_Albuc_1.xlsx'  # Path to your reference Excel file
     prediction_file = '../Albucasis/Albuc1_tagged_aya_prompt2.xlsx'  # Path to your prediction Excel file
-    sentences_file = 'Albuc1.txt'
+    sentences_file = '../data/Albuc1.txt'
     
     find_first_matching_sentence(reference_file, prediction_file, sentences_file)
 

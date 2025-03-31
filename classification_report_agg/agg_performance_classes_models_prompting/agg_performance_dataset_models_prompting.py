@@ -4,7 +4,7 @@ import glob
 from sklearn.metrics import precision_recall_fscore_support
 
 # Load true labels
-true_labels_file = 'REF_Albuc_1.xlsx'
+true_labels_file = '.../data/REF_Albuc_1.xlsx' #reference file
 true_labels_df = pd.read_excel(true_labels_file)
 
 # Assuming the true labels are in a column named 'POS'

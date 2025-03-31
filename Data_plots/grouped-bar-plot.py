@@ -5,8 +5,8 @@ import numpy as np
 import matplotlib.patches as mpatches
 
 # Read data from Excel files
-df1 = pd.read_excel("REF_Albuc_1.xlsx")
-df2 = pd.read_excel("NAF_reference.xlsx")
+df1 = pd.read_excel("../data/REF_Albuc_1.xlsx") #reference file
+df2 = pd.read_excel("../data/NAF_reference.xlsx") #reference file
 
 # Extract the required columns
 values_list1 = df1["POS"].tolist()
