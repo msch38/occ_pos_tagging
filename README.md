@@ -14,14 +14,28 @@ Large language models (LLMs) have demonstrated remarkable capabilities in natura
 
 ## Citation  
 ```bibtex
-@misc{schöffel2025modernmodelsmedievaltexts,
-      title={Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan}, 
-      author={Matthias Schöffel and Marinus Wiedner and Esteban Garces Arias and Paula Ruppert and Christian Heumann and Matthias Aßenmacher},
-      year={2025},
-      eprint={2503.07827},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.07827}, 
+@inproceedings{schoffel-etal-2025-modern,
+    title = "Modern Models, Medieval Texts: A {POS} Tagging Study of Old {O}ccitan",
+    author = {Sch{\"o}ffel, Matthias  and
+      Wiedner, Marinus  and
+      Garces Arias, Esteban  and
+      Ruppert, Paula  and
+      Heumann, Christian  and
+      A{\ss}enmacher, Matthias},
+    editor = {H{\"a}m{\"a}l{\"a}inen, Mika  and
+      {\"O}hman, Emily  and
+      Bizzoni, Yuri  and
+      Miyagawa, So  and
+      Alnajjar, Khalid},
+    booktitle = "Proceedings of the 5th International Conference on Natural Language Processing for Digital Humanities",
+    month = may,
+    year = "2025",
+    address = "Albuquerque, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.nlp4dh-1.30/",
+    pages = "334--349",
+    ISBN = "979-8-89176-234-3",
+    abstract = "Large language models (LLMs) have demonstrated remarkable capabilities in natural language processing, yet their effectiveness in handling historical languages remains largely unexplored. This study examines the performance of open-source LLMs in part-of-speech (POS) tagging for Old Occitan, a historical language characterized by non-standardized orthography and significant diachronic variation. Through comparative analysis of two distinct corpora{---}hagiographical and medical texts{---}we evaluate how current models handle the inherent challenges of processing a low-resource historical language. Our findings demonstrate critical limitations in LLM performance when confronted with extreme orthographic and syntactic variability. We provide detailed error analysis and specific recommendations for improving model performance in historical language processing. This research advances our understanding of LLM capabilities in challenging linguistic contexts while offering practical insights for both computational linguistics and historical language studies."
 }
 ```
 
